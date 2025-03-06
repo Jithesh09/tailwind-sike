@@ -4,7 +4,7 @@ import SuperQuality from './sections/SuperQuality';
 import Services from './sections/Services';
 import SpecialOffers from './sections/SpecialOffers';
 import CustomerReviews from './sections/CustomerReviews';
-import Subcribe from './sections/Subcribe';
+import Subscribe from './sections/Subscribe';
 import Footer from './sections/Footer';
 import Nav from './components/Nav';
 
@@ -31,7 +31,7 @@ const App = () => (
       <CustomerReviews />
     </section>
     <section className="padding-x sm:py-32 py-16 w-full">
-      <Subcribe />
+      <Subscribe />
     </section>
     <section className="bg-black padding-x padding-t pb-8">
       <Footer />
