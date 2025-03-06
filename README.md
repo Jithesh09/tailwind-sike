@@ -1,4 +1,5 @@
 test for link
+email noti test
 # tailwind-sike
 =======
 # React + Vite
